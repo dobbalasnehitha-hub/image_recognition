@@ -1,0 +1,4 @@
+imgrec/
+__pycache__/
+*.pyc
+.env
